@@ -10,7 +10,6 @@
             <div class="page-title">        
               <div class="title_left">
                    <h3>VALIDASI DATA <?= strtoupper($data['nama_berkas']) ?></h3>
-
               </div> 
 
         <div class="clearfix">
