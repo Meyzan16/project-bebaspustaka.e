@@ -12,7 +12,10 @@
                    <h3>VALIDASI DATA <?= strtoupper($data['nama_berkas']) ?></h3>
 
               </div> 
-        <div class="clearfix"></div>
+
+        <div class="clearfix">
+            
+        </div>
 
             <h5 class="text-right;" style="color: darkgreen; text-transform: uppercase;">DETAIL :  <?= $data['npm'] ?> <?= $data['nama_mhs'] ?></h5>
                  <h5 class="text-right;" style="color: darkgreen; text-transform: uppercase;">PRODI  :  <?= $data['nama_prodi'] ?> </h5>
